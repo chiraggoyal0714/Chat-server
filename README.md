@@ -1,4 +1,4 @@
-**Assignment for Signzy internship 2018**
+**Chat via terminal**
 
 Developed on python 
 Libraries used -
